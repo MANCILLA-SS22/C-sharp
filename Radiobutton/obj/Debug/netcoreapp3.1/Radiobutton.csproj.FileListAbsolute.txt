@@ -1,0 +1,15 @@
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\bin\Debug\netcoreapp3.1\Radiobutton.exe
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\bin\Debug\netcoreapp3.1\Radiobutton.deps.json
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\bin\Debug\netcoreapp3.1\Radiobutton.runtimeconfig.json
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\bin\Debug\netcoreapp3.1\Radiobutton.runtimeconfig.dev.json
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\bin\Debug\netcoreapp3.1\Radiobutton.dll
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\bin\Debug\netcoreapp3.1\Radiobutton.pdb
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.csprojAssemblyReference.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.Form1.resources
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.csproj.GenerateResource.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.AssemblyInfoInputs.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.AssemblyInfo.cs
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.dll
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.pdb
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\Radiobutton\obj\Debug\netcoreapp3.1\Radiobutton.genruntimeconfig.cache

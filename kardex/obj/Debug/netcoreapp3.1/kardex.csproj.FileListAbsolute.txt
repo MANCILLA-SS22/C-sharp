@@ -1,0 +1,18 @@
+C:\0. trabajos\c# y c++\kardex\bin\Debug\netcoreapp3.1\kardex.exe
+C:\0. trabajos\c# y c++\kardex\bin\Debug\netcoreapp3.1\kardex.deps.json
+C:\0. trabajos\c# y c++\kardex\bin\Debug\netcoreapp3.1\kardex.runtimeconfig.json
+C:\0. trabajos\c# y c++\kardex\bin\Debug\netcoreapp3.1\kardex.runtimeconfig.dev.json
+C:\0. trabajos\c# y c++\kardex\bin\Debug\netcoreapp3.1\kardex.dll
+C:\0. trabajos\c# y c++\kardex\bin\Debug\netcoreapp3.1\kardex.pdb
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.csprojAssemblyReference.cache
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.Form1.resources
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.csproj.GenerateResource.cache
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.AssemblyInfoInputs.cache
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.AssemblyInfo.cs
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.csproj.CoreCompileInputs.cache
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.dll
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.pdb
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.genruntimeconfig.cache
+C:\0. trabajos\c# y c++\kardex\obj\Debug\netcoreapp3.1\kardex.Properties.Resources.resources
+C:\Users\xxelt\OneDrive\Documentos\PROYECTOS PERSONALES\C#\kardex\obj\Debug\netcoreapp3.1\kardex.dll
+C:\Users\xxelt\OneDrive\Documentos\PROYECTOS PERSONALES\C#\kardex\obj\Debug\netcoreapp3.1\kardex.pdb

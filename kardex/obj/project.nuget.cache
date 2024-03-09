@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvYQjGizXe47YcVuYr4OVXkK3/IcN8W0FD6anN6jzWtsyAgpsIlYPnootI7AYvZptbvX1ZUrWDAHe0ZIaaJZVQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\xxelt\\OneDrive\\Documentos\\PROYECTOS PERSONALES\\C#\\kardex\\kardex.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

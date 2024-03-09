@@ -1,0 +1,30 @@
+C:\Users\German Mancilla\source\repos\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.exe
+C:\Users\German Mancilla\source\repos\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.deps.json
+C:\Users\German Mancilla\source\repos\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.runtimeconfig.json
+C:\Users\German Mancilla\source\repos\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.runtimeconfig.dev.json
+C:\Users\German Mancilla\source\repos\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.dll
+C:\Users\German Mancilla\source\repos\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.pdb
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.csprojAssemblyReference.cache
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.Form1.resources
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.csproj.GenerateResource.cache
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.AssemblyInfoInputs.cache
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.AssemblyInfo.cs
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.dll
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.pdb
+C:\Users\German Mancilla\source\repos\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.genruntimeconfig.cache
+C:\0. trabajos\c# y c++\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.exe
+C:\0. trabajos\c# y c++\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.deps.json
+C:\0. trabajos\c# y c++\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.runtimeconfig.json
+C:\0. trabajos\c# y c++\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.runtimeconfig.dev.json
+C:\0. trabajos\c# y c++\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.dll
+C:\0. trabajos\c# y c++\Checkbox\bin\Debug\netcoreapp3.1\Checkbox.pdb
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.csprojAssemblyReference.cache
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.Form1.resources
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.csproj.GenerateResource.cache
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.AssemblyInfoInputs.cache
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.AssemblyInfo.cs
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.csproj.CoreCompileInputs.cache
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.dll
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.pdb
+C:\0. trabajos\c# y c++\Checkbox\obj\Debug\netcoreapp3.1\Checkbox.genruntimeconfig.cache

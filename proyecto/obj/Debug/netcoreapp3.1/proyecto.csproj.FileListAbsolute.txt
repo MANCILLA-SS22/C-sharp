@@ -1,0 +1,31 @@
+C:\0. trabajos\c# y c++\proyecto\bin\Debug\netcoreapp3.1\proyecto.exe
+C:\0. trabajos\c# y c++\proyecto\bin\Debug\netcoreapp3.1\proyecto.deps.json
+C:\0. trabajos\c# y c++\proyecto\bin\Debug\netcoreapp3.1\proyecto.runtimeconfig.json
+C:\0. trabajos\c# y c++\proyecto\bin\Debug\netcoreapp3.1\proyecto.runtimeconfig.dev.json
+C:\0. trabajos\c# y c++\proyecto\bin\Debug\netcoreapp3.1\proyecto.dll
+C:\0. trabajos\c# y c++\proyecto\bin\Debug\netcoreapp3.1\proyecto.pdb
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.csprojAssemblyReference.cache
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.Form1.resources
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.csproj.GenerateResource.cache
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.AssemblyInfoInputs.cache
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.AssemblyInfo.cs
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.csproj.CoreCompileInputs.cache
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.dll
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.pdb
+C:\0. trabajos\c# y c++\proyecto\obj\Debug\netcoreapp3.1\proyecto.genruntimeconfig.cache
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\bin\Debug\netcoreapp3.1\proyecto.exe
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\bin\Debug\netcoreapp3.1\proyecto.deps.json
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\bin\Debug\netcoreapp3.1\proyecto.runtimeconfig.json
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\bin\Debug\netcoreapp3.1\proyecto.runtimeconfig.dev.json
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\bin\Debug\netcoreapp3.1\proyecto.dll
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\bin\Debug\netcoreapp3.1\proyecto.pdb
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.Form1.resources
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.csproj.GenerateResource.cache
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.AssemblyInfo.cs
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.dll
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.pdb
+C:\Users\PC\Documents\PROYECTOS PERSONALES\c#\proyecto\obj\Debug\netcoreapp3.1\proyecto.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedListBox", "CheckedListBox.csproj", "{8BDC7A7F-E271-4358-9050-FB82BDE6012C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDC7A7F-E271-4358-9050-FB82BDE6012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC7A7F-E271-4358-9050-FB82BDE6012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC7A7F-E271-4358-9050-FB82BDE6012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDC7A7F-E271-4358-9050-FB82BDE6012C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C37E25-229B-4BCD-9E24-83930BE3D46F}
+	EndGlobalSection
+EndGlobal

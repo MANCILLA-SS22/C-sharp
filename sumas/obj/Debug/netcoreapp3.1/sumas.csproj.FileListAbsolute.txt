@@ -1,0 +1,15 @@
+C:\Users\German Mancilla\Downloads\sumas\bin\Debug\netcoreapp3.1\sumas.exe
+C:\Users\German Mancilla\Downloads\sumas\bin\Debug\netcoreapp3.1\sumas.deps.json
+C:\Users\German Mancilla\Downloads\sumas\bin\Debug\netcoreapp3.1\sumas.runtimeconfig.json
+C:\Users\German Mancilla\Downloads\sumas\bin\Debug\netcoreapp3.1\sumas.runtimeconfig.dev.json
+C:\Users\German Mancilla\Downloads\sumas\bin\Debug\netcoreapp3.1\sumas.dll
+C:\Users\German Mancilla\Downloads\sumas\bin\Debug\netcoreapp3.1\sumas.pdb
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.csprojAssemblyReference.cache
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.Form1.resources
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.csproj.GenerateResource.cache
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.AssemblyInfoInputs.cache
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.AssemblyInfo.cs
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.csproj.CoreCompileInputs.cache
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.dll
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.pdb
+C:\Users\German Mancilla\Downloads\sumas\obj\Debug\netcoreapp3.1\sumas.genruntimeconfig.cache

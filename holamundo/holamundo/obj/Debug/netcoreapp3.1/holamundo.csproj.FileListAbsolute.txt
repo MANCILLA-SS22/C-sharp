@@ -1,0 +1,15 @@
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.csprojAssemblyReference.cache
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.Form1.resources
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.GenerateResource.cache
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\German Mancilla\Downloads\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache

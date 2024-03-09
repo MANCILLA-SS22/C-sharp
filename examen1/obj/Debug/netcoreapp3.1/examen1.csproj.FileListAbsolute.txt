@@ -1,0 +1,16 @@
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\bin\Debug\netcoreapp3.1\examen1.exe
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\bin\Debug\netcoreapp3.1\examen1.deps.json
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\bin\Debug\netcoreapp3.1\examen1.runtimeconfig.json
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\bin\Debug\netcoreapp3.1\examen1.runtimeconfig.dev.json
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\bin\Debug\netcoreapp3.1\examen1.dll
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\bin\Debug\netcoreapp3.1\examen1.pdb
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.csprojAssemblyReference.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.Form1.resources
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.csproj.GenerateResource.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.AssemblyInfoInputs.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.AssemblyInfo.cs
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.csproj.CoreCompileInputs.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.dll
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.pdb
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.genruntimeconfig.cache
+C:\Users\German Mancilla\Documents\Z. escuela\Visual Studio 2019\examen1\obj\Debug\netcoreapp3.1\examen1.Properties.Resources.resources

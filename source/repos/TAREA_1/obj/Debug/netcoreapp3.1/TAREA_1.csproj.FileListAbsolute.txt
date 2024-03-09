@@ -1,0 +1,6 @@
+C:\Users\German Mancilla\source\repos\TAREA_1\obj\Debug\netcoreapp3.1\TAREA_1.csprojAssemblyReference.cache
+C:\Users\German Mancilla\source\repos\TAREA_1\obj\Debug\netcoreapp3.1\TAREA_1.Form1.resources
+C:\Users\German Mancilla\source\repos\TAREA_1\obj\Debug\netcoreapp3.1\TAREA_1.csproj.GenerateResource.cache
+C:\Users\German Mancilla\source\repos\TAREA_1\obj\Debug\netcoreapp3.1\TAREA_1.AssemblyInfoInputs.cache
+C:\Users\German Mancilla\source\repos\TAREA_1\obj\Debug\netcoreapp3.1\TAREA_1.AssemblyInfo.cs
+C:\Users\German Mancilla\source\repos\TAREA_1\obj\Debug\netcoreapp3.1\TAREA_1.csproj.CoreCompileInputs.cache
